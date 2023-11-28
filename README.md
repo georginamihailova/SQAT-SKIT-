@@ -1,2 +1,2 @@
 # SQAT-SKIT-
-Homework exercise of Software Quality and Testing class. 
+Homework exercises of Software Quality and Testing class. 
